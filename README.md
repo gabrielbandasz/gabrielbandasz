@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel Bandasz
+# Gabriel Bandasz
 
 **`Desenvolvedor FullStack`**
 
