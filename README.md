@@ -1,9 +1,10 @@
 # Gabriel Bandasz
 
-**`Desenvolvedor FullStack`**
+**Estudante de Engenharia de Software | Desenvolvedor em formação (Back-end com Java)**
 
-Sou estudante do ensino médio técnico em informática no Colégio ULBRA São Lucas e tenho grande interesse em programação e tecnologia. Atualmente, estou desenvolvendo projetos acadêmicos em Java, JavaScript, HTML, CSS e banco de dados (SQL), e busco minha primeira oportunidade de estágio para aplicar meus conhecimentos na prática.
-Me destaco pela dedicação, vontade de aprender e facilidade em trabalhar em equipe. Meu objetivo é contribuir com soluções criativas, ganhar experiência no mercado de TI e crescer junto com a empresa.
+Sou estudante do ensino médio técnico em informática no Colégio ULBRA São Lucas, com foco em desenvolvimento de software e grande interesse em tecnologia. Tenho experiência em projetos acadêmicos utilizando **Java**, **JavaScript**, **HTML**, **CSS** e **banco de dados (SQL)**, aplicando conceitos de lógica de programação e programação orientada a objetos.
+
+Atualmente, busco minha **primeira oportunidade de estágio na área de tecnologia**, onde possa aplicar meus conhecimentos na prática, aprender com profissionais experientes e evoluir como desenvolvedor. Me destaco pela dedicação, facilidade de aprendizado, organização e bom trabalho em equipe.
 
 ---
 
@@ -33,7 +34,6 @@ Me destaco pela dedicação, vontade de aprender e facilidade em trabalhar em eq
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Java" 
@@ -41,8 +41,7 @@ Me destaco pela dedicação, vontade de aprender e facilidade em trabalhar em eq
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-    />
-          
+/>
 
 <br/>
 <br/>
@@ -58,11 +57,10 @@ Me destaco pela dedicação, vontade de aprender e facilidade em trabalhar em eq
     src="https://github-readme-stats.vercel.app/api?username=gabrielbandasz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Langs" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbandasz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
