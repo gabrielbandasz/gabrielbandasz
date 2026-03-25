@@ -86,5 +86,5 @@ Atualmente, busco minha **primeira oportunidade de estágio na área de tecnolog
 <br/>
 <br/>
 ## 📊 GitHub Stats 
-![github-readme-stats vercel](https://github.com/user-attachments/assets/770dfac6-ba27-4bc5-899b-7cad32c86cf5)
-**Código, ensino e inovação andam juntos! Vamos construir o futuro da tecnologia?**  
+![github-readme-stats vercel](https://github.com/user-attachments/assets/770dfac6-ba27-4bc5-899b-7cad32c86cf5) 
+ 
