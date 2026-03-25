@@ -87,4 +87,7 @@ Atualmente, busco minha **primeira oportunidade de estágio na área de tecnolog
 <br/>
 ## 📊 GitHub Stats 
 ![github-readme-stats vercel](https://github.com/user-attachments/assets/770dfac6-ba27-4bc5-899b-7cad32c86cf5) 
+ ![api](https://github.com/user-attachments/assets/e331312a-ceb5-4981-87bd-fa42088871d0)
+
+
  
